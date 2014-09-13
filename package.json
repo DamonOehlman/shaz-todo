@@ -1,0 +1,22 @@
+{
+  "name": "shaz-todo",
+  "version": "1.0.0",
+  "description": "Shaz plugin for marking slides with a 'TODO' marker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/shaz-todo.git"
+  },
+  "keywords": [
+    "shazam"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/shaz-todo/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/shaz-todo"
+}
