@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/shaz-todo/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/shaz-todo"
+  "homepage": "https://github.com/DamonOehlman/shaz-todo",
+  "devDependencies": {
+    "shazam": "^1.2.0"
+  }
 }
